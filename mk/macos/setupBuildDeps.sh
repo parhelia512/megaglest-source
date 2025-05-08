@@ -8,7 +8,6 @@ brew install cmake \
     freetype \
     fribidi \
     ftgl \
-    glew \
     jpeg-turbo \
     libogg \
     libpng \

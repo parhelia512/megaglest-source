@@ -64,7 +64,6 @@ sudo DEBIAN_FRONTEND=noninteractive -i sh -c \
     libcppunit-dev
     libfribidi-dev
     libftgl-dev
-    libglew-dev
     libogg-dev
     libvorbis-dev
     libminiupnpc-dev
